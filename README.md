@@ -57,7 +57,7 @@ test/
 ### Installation
 ```bash
 git clone https://github.com/mgx96/erc-20.git
-cd erc-20-token
+cd erc-20
 forge install
 ```
 
